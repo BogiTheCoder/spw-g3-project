@@ -2,7 +2,7 @@
 This is a test project for learning purposes
 
 this 
-is
+was
 a
 very
 nice
